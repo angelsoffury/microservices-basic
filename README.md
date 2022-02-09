@@ -9,7 +9,7 @@ are containerised and ready to deploy with a Kubernetes deployment.yaml and Skaf
 
 ## Contacts
 
-* Josh Ingeniero (jingenie@cisco.com)
+* Ahalya Murugadas (ahmuruga@cisco.com)
 
 
 ## Solution Components
